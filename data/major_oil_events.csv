@@ -1,0 +1,29 @@
+Date,Event_Category,Event_Description,Affected_Regions,Impact_Direction,Impact_Magnitude,Source,Confidence_Level
+1990-08-02,Geopolitical,Iraq invades Kuwait - Gulf War begins,Middle East,Negative,High,Historical Records,High
+1991-01-17,Geopolitical,Operation Desert Storm begins,Middle East,Positive,High,Historical Records,High
+1997-11-30,OPEC,OPEC increases production quotas by 2.5 million bpd,Global,Negative,Medium,OPEC Records,High
+1998-03-30,OPEC,OPEC agrees to cut production by 1.25 million bpd,Global,Positive,Medium,OPEC Records,High
+2001-09-11,Economic,9/11 terrorist attacks - global economic uncertainty,Global,Negative,High,Historical Records,High
+2003-03-20,Geopolitical,Iraq War begins - US invasion of Iraq,Middle East,Negative,High,Historical Records,High
+2008-09-15,Economic,Lehman Brothers collapse - Global Financial Crisis,Global,Negative,High,Financial Records,High
+2008-12-16,OPEC,OPEC announces largest production cut in history (2.2 million bpd),Global,Positive,High,OPEC Records,High
+2011-02-15,Geopolitical,Arab Spring begins - Libyan civil war disrupts oil supply,North Africa,Positive,High,Historical Records,High
+2011-03-11,Economic,Japan earthquake and tsunami - nuclear disaster,Asia,Negative,Medium,Historical Records,High
+2014-06-20,OPEC,OPEC decides not to cut production despite oversupply,Global,Negative,High,OPEC Records,High
+2014-11-27,OPEC,OPEC maintains production levels - oil price collapse begins,Global,Negative,High,OPEC Records,High
+2015-12-04,OPEC,OPEC maintains production ceiling - extends price pressure,Global,Negative,Medium,OPEC Records,High
+2016-11-30,OPEC,OPEC agrees to cut production by 1.2 million bpd,Global,Positive,High,OPEC Records,High
+2017-05-25,OPEC,OPEC extends production cuts for 9 months,Global,Positive,Medium,OPEC Records,High
+2018-05-08,Geopolitical,US withdraws from Iran nuclear deal - sanctions begin,Iran,Positive,High,Historical Records,High
+2018-06-22,OPEC,OPEC agrees to increase production by 1 million bpd,Global,Negative,Medium,OPEC Records,High
+2019-09-14,Geopolitical,Drone attacks on Saudi Aramco facilities,Saudi Arabia,Positive,High,Historical Records,High
+2020-01-03,Geopolitical,US kills Iranian general Qasem Soleimani,Iran,Positive,Medium,Historical Records,High
+2020-03-06,OPEC,OPEC+ fails to agree on production cuts,Global,Negative,High,OPEC Records,High
+2020-03-09,Economic,COVID-19 pandemic causes global lockdowns,Global,Negative,High,Historical Records,High
+2020-04-12,OPEC,OPEC+ agrees to cut production by 9.7 million bpd,Global,Positive,High,OPEC Records,High
+2020-04-20,Economic,US oil futures go negative for first time,Global,Negative,High,Financial Records,High
+2021-11-23,Economic,US announces release of 50 million barrels from SPR,US,Negative,Medium,Government Records,High
+2022-02-24,Geopolitical,Russia invades Ukraine - sanctions and supply disruptions,Russia/Ukraine,Positive,High,Historical Records,High
+2022-03-31,Economic,US announces release of 180 million barrels from SPR,US,Negative,Medium,Government Records,High
+2022-06-02,OPEC,"OPEC+ agrees to increase production by 648,000 bpd",Global,Negative,Medium,OPEC Records,High
+2022-10-05,OPEC,OPEC+ announces production cut of 2 million bpd,Global,Positive,High,OPEC Records,High 
