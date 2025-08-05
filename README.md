@@ -2,8 +2,6 @@
 ## Interactive Dashboard for Brent Oil Price Analysis - Task 3
 
 ### Project Overview
-<img width="1242" height="646" alt="Image" src="https://github.com/user-attachments/assets/1e0dd5a6-18fb-4e29-ae97-0e2584d4cfda" />
-<img width="1293" height="669" alt="Image" src="https://github.com/user-attachments/assets/897f3361-7a17-497d-a9c9-59e7e652b558" />
 
 This project provides a comprehensive analysis of Brent oil price trends, events, and change points through an interactive web dashboard. The analysis focuses on identifying key events that have significantly impacted oil prices over the past three decades and quantifying their effects to provide actionable insights for investors, policymakers, and energy companies.
 
@@ -302,6 +300,8 @@ pip freeze > requirements.txt
    - Optimize chart rendering for large datasets
 
 ### Technical Requirements
+<img width="1242" height="646" alt="Image" src="https://github.com/user-attachments/assets/1e0dd5a6-18fb-4e29-ae97-0e2584d4cfda" />
+<img width="1293" height="669" alt="Image" src="https://github.com/user-attachments/assets/897f3361-7a17-497d-a9c9-59e7e652b558" />
 
 #### Backend
 - Python 3.8+
